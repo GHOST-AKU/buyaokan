@@ -1,0 +1,7 @@
+输入设备检测工具 EXE 发布说明
+
+1. 双击 build_exe.bat 可以重新打包 exe。
+2. 打包成功后，发布文件会在 release\InputDeviceTester.exe。
+3. 把这个 exe 发给别人即可使用，不需要再附带 Python 环境。
+4. 首次运行如果被 Windows Defender 拦截，可以点“更多信息”后选择“仍要运行”。
+5. 这个工具当前仅支持 Windows。
